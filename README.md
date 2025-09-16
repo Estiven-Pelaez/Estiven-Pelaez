@@ -25,7 +25,7 @@
 
 <br><br>
 
-- :school: I am an studen engineer software.
+- :school: I am an studen software engineer.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Sena`, `TalentoTech`, `Alura`, `Platzi`, `Google Contests`,`TDEA university`.
 - :student: I’m currently learning `Full stack developer` and `Web3`.
