@@ -25,9 +25,9 @@
 
 <br><br>
 
-- :school: I am an empirical developer.
+- :school: I am an studen engineer software.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Sena`, `TalentoTech`, `Alura`, `Platzi`, `Google Contests`.
+- :computer: I am a competitive programmer at `Sena`, `TalentoTech`, `Alura`, `Platzi`, `Google Contests`,`TDEA university`.
 - :student: I’m currently learning `Full stack developer` and `Web3`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY CV]().
